@@ -1,0 +1,25 @@
+scene_01_clean.png: read OK, width=800, height=600, channels=3
+  resized_scene_01_clean.png: shape=(300, 400, 3), readback_shape_ok=True, pixel_equal=True
+  crop_scene_01_clean.png: shape=(180, 240, 3), readback_shape_ok=True, pixel_equal=True
+  gray_scene_01_clean.png: shape=(300, 400), readback_shape_ok=True, pixel_equal=True
+  comparison written: comparison_scene_01_clean.png
+  original unchanged: True
+scene_02_warm.png: read OK, width=800, height=600, channels=3
+  resized_scene_02_warm.png: shape=(300, 400, 3), readback_shape_ok=True, pixel_equal=True
+  crop_scene_02_warm.png: shape=(180, 240, 3), readback_shape_ok=True, pixel_equal=True
+  gray_scene_02_warm.png: shape=(300, 400), readback_shape_ok=True, pixel_equal=True
+  comparison written: comparison_scene_02_warm.png
+  original unchanged: True
+scene_03_lowlight.png: read OK, width=800, height=600, channels=3
+  resized_scene_03_lowlight.png: shape=(300, 400, 3), readback_shape_ok=True, pixel_equal=True
+  crop_scene_03_lowlight.png: shape=(180, 240, 3), readback_shape_ok=True, pixel_equal=True
+  gray_scene_03_lowlight.png: shape=(300, 400), readback_shape_ok=True, pixel_equal=True
+  comparison written: comparison_scene_03_lowlight.png
+  original unchanged: True
+scene_04_overexposed.png: read OK, width=800, height=600, channels=3
+  resized_scene_04_overexposed.png: shape=(300, 400, 3), readback_shape_ok=True, pixel_equal=True
+  crop_scene_04_overexposed.png: shape=(180, 240, 3), readback_shape_ok=True, pixel_equal=True
+  gray_scene_04_overexposed.png: shape=(300, 400), readback_shape_ok=True, pixel_equal=True
+  comparison written: comparison_scene_04_overexposed.png
+  original unchanged: True
+processed 4 images; outputs in C:\Users\28311\Documents\deepseek-harness\default-workspace\W1_罗颢洋_视觉算法\outputs\task1
