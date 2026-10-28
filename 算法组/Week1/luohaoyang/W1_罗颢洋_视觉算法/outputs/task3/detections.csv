@@ -1,5 +1,0 @@
-﻿image,status,center_x,center_y,area_px,bbox_x,bbox_y,bbox_w,bbox_h,contours_total,contours_kept,iou
-scene_01_clean.png,OK,390,333,21167,331,187,119,250,1,1,1.0000
-scene_02_warm.png,OK,535,352,12767,489,238,93,196,1,1,0.9949
-scene_03_lowlight.png,OK,320,358,22812,255,214,130,248,2,1,0.9730
-scene_04_overexposed.png,MISS,,,,,,,,0,0,0.0000
